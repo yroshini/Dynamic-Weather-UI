@@ -47,9 +47,6 @@ Dynamic Weather UI is a **responsive, real-time weather interface** that visuall
 |---------------------|------------|-------------|
 | ![Sunny View](./screenshots/sunny-view.png) | ![Cold View](./screenshots/cold-view.png) | ![Rainy View](./screenshots/rainy-view.png) |
 
-- `sunny-view.png`: Display with warm background and `WbSunny` icon.
-- `cold-view.png`: Display with blue tone and `AcUnit` icon.
-- `rainy-view.png`: Display with rainy theme and `Thunderstorm` icon.
 
 
 ## 🧪 Setup & Installation
